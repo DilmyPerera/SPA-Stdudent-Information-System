@@ -1,7 +1,7 @@
 import './App.css';
 
 import { students } from '../src/components/data/StudentsDb.js'
-import StudentTable from './components/StudentTable';
+import StudentTable from './components/StudentTable.js';
 function App() {
   return (
     <div className="App">
